@@ -1,0 +1,30 @@
+body{
+  background-color: LightSteelBlue;
+}
+/**HEADER**/
+#header-nav {
+  background-color: teal;
+}
+#header-nav h1.navbar-brand{
+  font-family: 'Arial', serif;
+  color: aquamarine;
+  font-size: 2em;
+}
+.navbar-toggle{
+  color: #004d40
+}
+#collapsable-nav{
+  clear: both;
+  background-color: darkseagreen;
+}
+#nav-list li{
+  color: darkslategrey;
+  text-align: center;
+}
+/**Content Items**/
+.menu_item {
+  background-color: powderblue;
+  box-sizing:border-box;
+  padding: 15px;
+  margin: 15px;
+}
